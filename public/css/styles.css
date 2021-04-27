@@ -1,0 +1,146 @@
+body{
+  background-color: #28b5b5;
+  color: #feffde;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.line{
+  background-color: #feffde;
+  width: auto;
+  height: 5px;
+}
+
+.wavyUnderline{
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+/* welcome prefix means the class is related to the welcome div/section of the webpage. */
+
+.welcome
+{
+  font-size: 50px;
+  text-align: center;
+}
+
+.welcomeImg {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/* Help people. */
+.helpYou{
+  font-size: 25px;
+  text-align: center;
+  background-color: #aad8d3;
+}
+
+.helpYouImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+  background-blend-mode: multiply;
+}
+
+/* Services. */
+
+.serviceImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+  /* position: relative;
+  right: 20%; */
+}
+
+.services{
+  font-size: 25px;
+  color: #1e56a0;
+  text-align: center;
+  background-color: #eaf6f6;
+}
+
+.text{
+  width: 100%;
+  height: 100%;
+}
+
+/* Clients work. */
+.clientPart{
+  font-size: 25px;
+  text-align: center;
+  background-color: #ff005c;
+}
+
+.clientImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+}
+
+/* Who we are? */
+.whoWeAre{
+  font-size: 25px;
+  text-align: center;
+  background-color: #aa2ee6;
+}
+
+.whoWeAreImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+}
+
+
+/* Questions. */
+.questions{
+  font-size: 25px;
+  text-align: center;
+  background-color: #e2bcb7;
+}
+
+.questionsImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+}
+
+/* End note. */
+.together{
+  font-size: 25px;
+  text-align: center;
+  background-color: #ee9595;
+}
+
+.togetherImg{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 30%;
+  max-width: 30%;
+}
+
+/* Made with love. */
+.love{
+  font-size: 10px;
+  text-align: center;
+  background-color: #23120b;
+}
+
+/* Attributions. */
+
+.attributions{
+  text-align: center;
+}
